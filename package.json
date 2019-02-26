@@ -1,0 +1,25 @@
+{
+  "name": "trading-subdomain-redirect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarriorTrading/trading.warriortrading.com-support-redirect.git"
+  },
+  "keywords": [
+    "redirect"
+  ],
+  "author": "Duane Leem <duane@leemfamily.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WarriorTrading/trading.warriortrading.com-support-redirect/issues"
+  },
+  "homepage": "https://github.com/WarriorTrading/trading.warriortrading.com-support-redirect#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
